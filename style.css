@@ -1,0 +1,56 @@
+body{
+    background: #7EB4BE;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #187795;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+p{
+    padding: 0px 25px 0px 25px;
+    font-family: 'Comfortaa', cursive;
+}
+
+uo{
+    text-align: center;
+    list-style-type: none;
+}
+
+#git{
+    text-align: center;
+    font-size: 10px;
+}
+
+img{
+    width: 300px;
+    height:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#project{
+    text-align: center;
+}
